@@ -1,2 +1,3 @@
 var num = 50;
-var truth = "hello coder A"
+var truth = "hello cats";
+
